@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #000;
+    font-style: italic;
+    color: #fff;
+  }
+
+  .h2 {
+    background-color: #000;
+  }
+  
+  #talents {
+    background-color: #000;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+
+  .card-text-text-center {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+  }
+
